@@ -20,6 +20,16 @@ A **Machine Learning App** built with **Flask** to predict the risk of diabetes 
 
 ---
 
+## 🖥️ Screenshots
+
+### Homepage
+![Homepage Screenshot](static/homepage.png)
+
+### Result Page
+![Result Page Screenshot](static/result.png)
+
+---
+
 ## 🚀 How It Works
 
 1. The user enters personal and medical details (e.g., Glucose Level, Blood Pressure) into the input fields on the homepage.
@@ -37,14 +47,3 @@ A **Machine Learning App** built with **Flask** to predict the risk of diabetes 
 - **Frontend**: HTML, CSS
 - **Machine Learning**: Scikit-learn
 - **Model**: Random Forest Classifier
-
----
-
-## 🖥️ Screenshots
-
-### Homepage
-![Homepage Screenshot](static/homepage.png)
-
-### Result Page
-![Result Page Screenshot](static/result.png)
-
